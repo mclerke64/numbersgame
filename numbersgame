@@ -51,7 +51,7 @@
             Enter your name and try to guess the number in the middle (not the lowest and not the highest).<br>
             Numbers are from 1 to 100.<br>
             The game will start when we have at least 3 players.<br>
-            +15 extra seconds if more players want to join.
+            +10 extra seconds if more players want to join.
         </p>
     </div>
 </body>
