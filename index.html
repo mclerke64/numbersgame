@@ -54,5 +54,12 @@
             +10 extra seconds if more players want to join.
         </p>
     </div>
+    <div>
+    <form method="POST" action="/join">
+  <input type="text" name="name" placeholder="Your name" required>
+  <input type="number" name="guess" min="1" max="100" placeholder="Your guess" required>
+  <button type="submit">Join Game</button>
+</form>
+    </div>
 </body>
 </html>
